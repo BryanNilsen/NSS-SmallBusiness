@@ -1,0 +1,22 @@
+body{
+  background: lightgrey;
+  font-family: monospace;
+}
+
+.employee {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.container {
+  margin: 20px;
+  padding: 0 20px;
+  background: white;
+  border: 2px solid cornflowerblue;
+  border-radius: 10px;
+
+  -webkit-box-shadow: -3px 3px 22px -6px rgba(0,0,0,0.63);
+  -moz-box-shadow: -3px 3px 22px -6px rgba(0,0,0,0.63);
+  box-shadow: -3px 3px 22px -6px rgba(0,0,0,0.63);
+
+}

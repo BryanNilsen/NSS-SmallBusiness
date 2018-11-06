@@ -1,0 +1,125 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Michael Scott",
+      "department_id": 3,
+      "computer_id": 1,
+      "image_url": "https://vignette.wikia.nocookie.net/theoffice/images/0/02/Michael_Scott.jpg/revision/latest/scale-to-width-down/700?cb=20170701090332"
+    },
+    {
+      "id": 3,
+      "name": "Jim Halpert",
+      "department_id": 1,
+      "computer_id": 1,
+      "image_url": "https://vignette.wikia.nocookie.net/theoffice/images/9/9a/Jim.jpg/revision/latest/scale-to-width-down/700?cb=20170701084550"
+    },
+    {
+      "id": 2,
+      "name": "Pam Beesly",
+      "department_id": 5,
+      "computer_id": 3,
+      "image_url": "https://vignette.wikia.nocookie.net/theoffice/images/6/67/Pam_Beesley.jpg/revision/latest/scale-to-width-down/700?cb=20170701084358"
+    },
+    {
+      "id": 4,
+      "name": "Dwight K. Schrute",
+      "department_id": 1,
+      "computer_id": 2,
+      "image_url": "https://vignette.wikia.nocookie.net/theoffice/images/c/c5/Dwight_.jpg/revision/latest/scale-to-width-down/700?cb=20170701082424"
+    },
+    {
+      "id": 5,
+      "name": "Creed Bratton",
+      "department_id": 6,
+      "computer_id": 4,
+      "image_url": "https://vignette.wikia.nocookie.net/theoffice/images/2/20/2009Creed.jpg/revision/latest/scale-to-width-down/700?cb=20170701085348"
+    },
+    {
+      "id": 6,
+      "name": "Angela Martin",
+      "department_id": 4,
+      "computer_id": 2,
+      "image_url": "https://vignette.wikia.nocookie.net/theoffice/images/0/0b/Angela_Martin.jpg/revision/latest/scale-to-width-down/700?cb=20170701090232"
+    },
+    {
+      "id": 6,
+      "name": "Andrew Bernard",
+      "department_id": 1,
+      "computer_id": 5,
+      "image_url": "https://vignette.wikia.nocookie.net/theoffice/images/b/b5/Andy_Bernard.jpg/revision/latest/scale-to-width-down/700?cb=20170701084205"
+    },
+    {
+      "id": 7,
+      "name": "Stanley Hudson",
+      "department_id": 1,
+      "computer_id": 6,
+      "image_url": "https://vignette.wikia.nocookie.net/theoffice/images/2/23/Stanley_Hudson.jpg/revision/latest/scale-to-width-down/700?cb=20170701085445"
+    },
+    {
+      "id": 8,
+      "name": "Kevin Malone",
+      "department_id": 4,
+      "computer_id": 3,
+      "image_url": "https://vignette.wikia.nocookie.net/theoffice/images/b/b2/2009Kevincropped.PNG/revision/latest/scale-to-width-down/700?cb=20170701083657"
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "name": "Sales"
+    },
+    {
+      "id": 2,
+      "name": "HR"
+    },
+    {
+      "id": 3,
+      "name": "Management"
+    },
+    {
+      "id": 4,
+      "name": "Accounting"
+    },
+    {
+      "id": 5,
+      "name": "Reception"
+    },
+    {
+      "id": 6,
+      "name": "Quality Control"
+    }
+  ],
+  "computers": [
+    {
+      "id": 1,
+      "type": "MacBook Pro",
+      "os": "Mojave"
+    },
+    {
+      "id": 2,
+      "type": "HP Pavillion",
+      "os": "Windows Vista"
+    },
+    {
+      "id": 3,
+      "type": "Dell Optiplex",
+      "os": "Windows 95"
+    },
+    {
+      "id": 4,
+      "type": "MS Surface Pro",
+      "os": "Windows 10"
+    },
+    {
+      "id": 5,
+      "type": "iMac",
+      "os": "High Sierra"
+    },
+    {
+      "id": 6,
+      "type": "Commodore 64",
+      "os": "GEOS"
+    }
+  ]
+}
